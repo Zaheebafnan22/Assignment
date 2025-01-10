@@ -8,7 +8,7 @@ public class Program12 {
 		int s1 = 22;
 		
 		//converting number to string
-		String s2 = Integer.toString(s1);
+		String s2 = String.valueOf(s1);
 		
 		//printing the statement
 		System.out.println(s2);
